@@ -1,0 +1,8 @@
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.csproj.AssemblyReference.cache
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.csproj.CoreCompileInputs.cache
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe.config
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.pdb
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.exe
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.pdb
